@@ -2,7 +2,7 @@
 title: "DockerでLaravel9(Lemp)の環境構築"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: [docker,laravel]
 published: false
 ---
 
